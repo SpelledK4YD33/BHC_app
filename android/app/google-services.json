@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023384894282",
+    "project_id": "bhc-app-316d6",
+    "storage_bucket": "bhc-app-316d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023384894282:android:1311598407c835ab38dfb3",
+        "android_client_info": {
+          "package_name": "bhc.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHQ00jbVeIjmJRZyb-bnz-J5KrMF4gD7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
